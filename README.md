@@ -12,6 +12,7 @@ In my case I use RAG for unswering stupid questions based on lectures in my usiv
 4) Get bot token from [botfather](https://t.me/BotFather)
 5) Run <code>main.py</code> file
 6) Send some questions to your bot like next:
+
 ![image](https://github.com/Pelmeshek1706/rag_bot/assets/94761102/2c39c50f-aa70-489d-9e03-322c794728c7)
 ![image](https://github.com/Pelmeshek1706/rag_bot/assets/94761102/2d41bd77-110a-4ea0-8d38-1c1377d19f98)
 ![image](https://github.com/Pelmeshek1706/rag_bot/assets/94761102/4e05b3fe-1fb8-4376-ae42-b10b3bae9d4b)
