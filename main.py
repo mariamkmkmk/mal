@@ -4,8 +4,8 @@ from langchain.vectorstores import Chroma
 from langchain.embeddings.openai import OpenAIEmbeddings
 import telebot
 
-openai.api_key = "<YOUR_TOKEN>"
-os.environ["OPENAI_API_KEY"] = "<YOUR_TOKEN>"
+openai.api_key = "<7129276051:AAFkH0-l4hqXL5uLC9zKGmLPVmuBvvJ-nZA>"
+os.environ["OPENAI_API_KEY"] = "<7129276051:AAFkH0-l4hqXL5uLC9zKGmLPVmuBvvJ-nZA>"
 openai.api_type = "..."
 os.environ["OPENAI_API_TYPE"] = "..."
 openai.api_base = "<your base address>"
