@@ -12,7 +12,7 @@ openai.api_base = "<your base address>"
 os.environ["OPENAI_API_BASE"] = "<your base address>"
 openai.api_version = "2023-07-01-preview"
 os.environ["OPENAI_API_VERSION"] = "2023-07-01-preview"
-bot = telebot.TeleBot("<your bot token>")
+bot = telebot.TeleBot("<7129276051:AAFkH0-l4hqXL5uLC9zKGmLPVmuBvvJ-nZA>")
 
 
 from langchain.agents import AgentType
